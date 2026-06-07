@@ -188,7 +188,7 @@ Open **http://localhost:8501** → Upload a PDF → Start asking questions!
 - **Response**:
 ```json
 {
-  "answer": "The employee name is **KARTIK KHANNA** [Source 1].",
+  "answer": "The employee name is **AARUSHI CHADDHA** [Source 1].",
   "docs": ["chunk1 text...", "chunk2 text..."]
 }
 ```
@@ -269,7 +269,7 @@ Open **http://localhost:8501** → Upload a PDF → Start asking questions!
 
 ## 👤 Author
 
-**Kartik Khanna**
+**Aarushi Chaddha**
 
 ---
 
